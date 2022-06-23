@@ -1,0 +1,2 @@
+EECE 237  Embedded Systems Development
+This course presents the concepts and techniques associated with developing low level Embedded Systems Applications, using both Assembly Language and C. Topics include microprocessor architecture concepts, instruction set architectures, Assembly Language programming, data representations, interrupt handling and execution modes, low level C programming, and the use of on-chip and external peripherals.

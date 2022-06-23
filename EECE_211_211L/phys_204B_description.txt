@@ -1,0 +1,2 @@
+PHYS 204B  Physics for Students of Science and Engineering: Electricity and Magnetism
+Charge and matter, electric field, Gauss' law, electric potential, capacitors and dielectrics, current and resistance, magnetic field, Ampere's law, Faraday's law of induction, magnetic properties of matter, electromagnetic oscillations and waves. Calculus used.

@@ -1,0 +1,2 @@
+EECE 144  Logic Design Fundamentals
+Definition and properties of switching algebra. Minimization of algebraic function. Use of Karnaugh maps for simplification. Design of combinational logic networks. Design of sequential logic devices including flip-flops, registers, and counters. Analysis and applications of digital devices. Analysis and design of synchronous and asynchronous sequential state machines, state table derivation and reduction. Use of such CAD tools for schematic capture and logic device simulations.

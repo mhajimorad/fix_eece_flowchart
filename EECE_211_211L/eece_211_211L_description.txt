@@ -1,0 +1,5 @@
+EECE 211  Linear Circuits I
+This course introduces students to core concepts related to analysis and applications of linear circuits. Topics include electrical quantities and components; Kirchhoff's Laws and circuits analysis methods; Thevenin and Norton theorems; operational amplifiers and applications; first-order transient response of RC and RL circuits; AC steady-state analysis including phasors and impedance; circuit simulation and analysis using SPICE.
+
+EECE 211L  Linear Circuits I Activity
+Experiments to reinforce the principles taught in EECE 211.

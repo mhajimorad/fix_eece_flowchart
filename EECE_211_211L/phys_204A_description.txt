@@ -1,0 +1,2 @@
+PHYS 204A  Physics for Students of Science and Engineering: Mechanics
+Vectors, kinematics, particle dynamics, friction, work, energy, power, momentum, dynamics and statics of rigid bodies, oscillations, gravitation, fluids. Calculus used. A grade of C- or higher is required before progressing to either PHYS 204B or PHYS 204C.

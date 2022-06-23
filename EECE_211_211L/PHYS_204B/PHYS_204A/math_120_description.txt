@@ -1,0 +1,2 @@
+MATH 120  Analytic Geometry and Calculus
+Limits and continuity. The derivative and applications to related rates, maxma and minima, and curve sketching. Transcendental functions. An introduction to the definite integral and area.
